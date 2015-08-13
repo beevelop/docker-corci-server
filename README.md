@@ -1,4 +1,4 @@
-# Docker: CorCI-server
+# CorCI-server based on [beevelop/nodejs](https://github.com/beevelop/docker-nodejs)
 
 > Dockerized CorCI-Server
 
@@ -8,4 +8,4 @@ docker run -d -p 8080:8080 --name corci-duke beevelop/corci-server
 ```
 
 ## Disclaimer
-> This project is currently under heavy development and might be unstable. Don't use it in production (unless you're adventurous)
+> This is experimental and might break from time to time. Use at your own risk!
