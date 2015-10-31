@@ -1,4 +1,4 @@
-FROM beevelop/nodejs
+FROM beevelop/nodejs-python
 MAINTAINER Maik Hummel <yo@beevelop.com>
 
 ENV CORCI_PROTOCOL http
